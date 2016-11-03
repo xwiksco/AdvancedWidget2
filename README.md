@@ -12,5 +12,5 @@ Sekolah : SMK Telkom Malang
 
 #Screenshoot Aplikasi
 
-![]()
-![]()
+![a1.png](https://docs.google.com/uc?id=0B0CFHk2H9RL8cWsyanV6SXBjUFk)
+![a11.png](https://docs.google.com/uc?id=0B0CFHk2H9RL8TG9Na3FJTklwckk)
