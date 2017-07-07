@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="192.168.0.70" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.1, 192.168.0.0/16, .wahanaartha.com" />
+  </component>
+</application>
